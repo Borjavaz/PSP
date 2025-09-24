@@ -13,7 +13,7 @@
 ## 🛠️ Tecnologías y herramientas
 - **Lenguaje principal:** Java  
 - **Entorno de desarrollo:** IntelliJ IDEA
-- **Control de versiones:** Git y GitHub  
+- **Control de versiones:** GitHub  
 
 ---
 
